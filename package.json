@@ -1,10 +1,11 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Fake server using JSON server",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server db.json --port=4000"
+    "start": "node server.js",
+    "start:dev": "json-server db.json --watch --port=4000"
   },
   "keywords": [],
   "author": "",
