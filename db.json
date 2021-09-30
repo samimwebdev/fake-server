@@ -1,8 +1,8 @@
 {
   "contacts": [
     {
-      "first_name": "Ritchie!!",
-      "last_name": "Swyer",
+      "firstName": "Ritchie!!",
+      "lastName": "Swyer",
       "email": "sswyer0@wordpress.org",
       "picture": "https://randomuser.me/api/portraits/women/6.jpg",
       "gender": "female",
@@ -10,8 +10,8 @@
       "id": 9
     },
     {
-      "first_name": "Ritche",
-      "last_name": "gdgedg",
+      "firstName": "Ritche",
+      "lastName": "gdgedg",
       "email": "samimfazlu091@gmaill.com",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
       "gender": "male",
@@ -19,8 +19,8 @@
       "id": 10
     },
     {
-      "first_name": "Ritchie",
-      "last_name": "gdgedg",
+      "firstName": "Ritchie",
+      "lastName": "gdgedg",
       "email": "sswyer0@wordpress.org",
       "dob": "2021-09-04T11:45:44.041Z",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -28,8 +28,8 @@
       "id": 11
     },
     {
-      "first_name": "Ritchie",
-      "last_name": "gdgedg",
+      "firstName": "Ritchie",
+      "lastName": "gdgedg",
       "email": "sswyer0@wordpress.org",
       "dob": "2021-09-04T11:45:44.041Z",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -37,8 +37,8 @@
       "id": 12
     },
     {
-      "first_name": "samim",
-      "last_name": "Hasan",
+      "firstName": "samim",
+      "lastName": "Hasan",
       "email": "samimfazlu091@gmail.com",
       "dob": "2021-09-04T11:47:25.610Z",
       "picture": "https://randomuser.me/api/portraits/women/6.jpg",
@@ -46,8 +46,8 @@
       "id": 13
     },
     {
-      "first_name": "Sadella!!",
-      "last_name": "gdgedg",
+      "firstName": "Sadella!!",
+      "lastName": "gdgedg",
       "email": "samim_gr@yahoo.com",
       "picture": "https://randomuser.me/api/portraits/women/6.jpg",
       "gender": "female",
@@ -55,8 +55,8 @@
       "id": 14
     },
     {
-      "first_name": "Kennedy!!",
-      "last_name": "Iacovisdff",
+      "firstName": "Kennedy!!",
+      "lastName": "Iacovisdff",
       "email": "sswyer0@wordpress.org",
       "dob": "1992-09-04T17:22:50.000Z",
       "picture": "https://randomuser.me/api/portraits/women/7.jpg",
@@ -64,8 +64,8 @@
       "id": 15
     },
     {
-      "first_name": "Sadella!!",
-      "last_name": "gdgedg",
+      "firstName": "Sadella!!",
+      "lastName": "gdgedg",
       "email": "samim_gr@yahoo.com",
       "dob": "2021-09-07T10:20:02.000Z",
       "picture": "https://randomuser.me/api/portraits/women/7.jpg",
@@ -73,8 +73,8 @@
       "id": 16
     },
     {
-      "first_name": "Wain",
-      "last_name": "Hasan",
+      "firstName": "Wain",
+      "lastName": "Hasan",
       "email": "sswyer0@wordpress.org",
       "dob": "1951-09-04T10:38:01.000Z",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -82,8 +82,8 @@
       "id": 17
     },
     {
-      "first_name": "Wain",
-      "last_name": "Hasan",
+      "firstName": "Wain",
+      "lastName": "Hasan",
       "email": "sswyer0@wordpress.org",
       "dob": "1951-09-04T10:38:01.000Z",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -91,8 +91,8 @@
       "id": 18
     },
     {
-      "first_name": "Ritchie!!",
-      "last_name": "ytutyu",
+      "firstName": "Ritchie!!",
+      "lastName": "ytutyu",
       "email": "samimfazlu@gmail.com",
       "dob": "2021-08-30T11:10:01.000Z",
       "picture": "https://randomuser.me/api/portraits/women/2.jpg",
@@ -100,8 +100,8 @@
       "id": 19
     },
     {
-      "first_name": "Ritchie!!",
-      "last_name": "ytutyu",
+      "firstName": "Ritchie!!",
+      "lastName": "ytutyu",
       "email": "samimfazlu@gmail.com",
       "dob": "2021-08-30T11:10:01.000Z",
       "picture": "https://randomuser.me/api/portraits/women/2.jpg",
@@ -109,8 +109,8 @@
       "id": 20
     },
     {
-      "first_name": "Ritchie",
-      "last_name": "Forsdike",
+      "firstName": "Ritchie",
+      "lastName": "Forsdike",
       "email": "samim_gr@yahoo.com",
       "dob": "2021-09-10T11:12:54.721Z",
       "picture": "https://randomuser.me/api/portraits/women/6.jpg",
@@ -118,8 +118,8 @@
       "id": 21
     },
     {
-      "first_name": "samim",
-      "last_name": "gsfsfs",
+      "firstName": "samim",
+      "lastName": "gsfsfs",
       "email": "samim_gr@yahoo.com",
       "picture": "https://randomuser.me/api/portraits/women/2.jpg",
       "gender": "female",
@@ -127,8 +127,8 @@
       "id": 22
     },
     {
-      "first_name": "Sadella!!",
-      "last_name": "Hasan",
+      "firstName": "Sadella!!",
+      "lastName": "Hasan",
       "email": "samimfazlu091@gmaill.com",
       "dob": "2021-09-10T18:43:03.731Z",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
